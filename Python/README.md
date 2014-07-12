@@ -1,0 +1,13 @@
+## nbviewerへのリンク
+ - [02. 簡単な変数への代入](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.02.ipynb)
+ - [03. 簡単な演算](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.03.ipynb)
+ - [04. 簡単なベクトル演算](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.04.ipynb)
+ - [05. 簡単な行列の作成と演算](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.05.ipynb)
+ - [06. 簡単なリストの作成](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.06.ipynb)
+ - [07. 簡単なデータフレームの作成](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.07.ipynb)
+ - [08. ファイルからの読み込み](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.08.ipynb)
+ - [09. ファイルへの書き出し](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.09.ipynb)
+ - [10. プログラムの読み込み](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.10.ipynb)
+ - [11. 関数の定義](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.11.ipynb)
+ - [12. グラフの作成](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.12.ipynb)
+ - [13. 基本的なプログラミングの構文](http://nbviewer.ipython.org/github/amacbee/scipy_beginners/blob/master/Python/Exercise.13.ipynb)
